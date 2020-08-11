@@ -2,6 +2,7 @@
 #include <string>
 
 int main() {
+/*
     int now, sum=0;
     std::string s;
     while (true) {
@@ -54,6 +55,6 @@ int main() {
     }
 
     std::cout << sum << "\n";
-
+*/
     return 0;
 }
